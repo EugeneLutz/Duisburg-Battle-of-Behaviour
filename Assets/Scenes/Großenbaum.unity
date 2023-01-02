@@ -21842,7 +21842,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8264537523897005669, guid: 385acbe1147d9004fa747992c5842494, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1218.993
+      value: 1251.3
       objectReference: {fileID: 0}
     - target: {fileID: 8264537523897005669, guid: 385acbe1147d9004fa747992c5842494, type: 3}
       propertyPath: m_LocalPosition.y
@@ -61128,7 +61128,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Next
+  m_text: Weiter
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -68432,7 +68432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8264537523897005669, guid: 385acbe1147d9004fa747992c5842494, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -43.08097
+      value: -60
       objectReference: {fileID: 0}
     - target: {fileID: 8264537523897005669, guid: 385acbe1147d9004fa747992c5842494, type: 3}
       propertyPath: m_LocalRotation.w
