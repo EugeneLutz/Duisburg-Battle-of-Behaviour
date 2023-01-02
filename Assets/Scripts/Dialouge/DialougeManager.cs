@@ -23,6 +23,7 @@ public class DialougeManager : MonoBehaviour
     {
         dialougeName.text = dialouge.name;
         sentences.Clear();
+        Debug.Log(sentences);
 
         foreach (string sentence in dialouge.sentences)
         {
@@ -53,7 +54,7 @@ public class DialougeManager : MonoBehaviour
         PlayerCam.inDialouge = false;
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
-
+        dialougeText.text = "...";
         Dialouge.position = new Vector3(10000, 10000, 10000);
     }
 }
